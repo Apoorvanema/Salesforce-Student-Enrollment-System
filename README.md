@@ -81,3 +81,34 @@ Key features include:
 
 ### Phase 10: Final Presentation & Demo Day  
 - Demo walkthrough of student lifecycle.
+
+
+## Project Diagrams  
+1. Ascend Business Process Flow  
+   *(As-Is → To-Be process mapping)*  
+
+2. Entity Relationship Diagram (ERD)  
+   *(Student, Course, Enrollment, FeePayment, ProgressRecord relationships)*  
+
+---
+
+## Key Performance Indicators (KPIs)  
+- Student enrollment growth per term.  
+- Percentage of overdue fees reduced through reminders.  
+- Number of students flagged as “at-risk” vs. successfully retained.  
+- Average improvement in student performance with recommendations.  
+- Dashboard usage by faculty and management.  
+
+---
+
+## Future Scope  
+- Mobile app for students & faculty.  
+- Deeper AI models for personalized learning paths.  
+- Integration with LMS (Learning Management Systems).  
+- Alumni engagement & career tracking features.  
+- Voice-enabled chatbot for instant assistance.  
+
+---
+
+## License  
+This project is developed for educational purposes as part of the **TCS Last Mile Salesforce Capstone Project**.  
